@@ -32,4 +32,4 @@ Guarda textos.
 
 Exemplo:
 
-nome < "Josiane"
+nome <-  "Josiane"
