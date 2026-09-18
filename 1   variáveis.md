@@ -1,8 +1,7 @@
-> [!NOTE]
 
 # Variáveis
-
-Variável é uma caixa que guarda informações.
+> [!NOTE]
+> Variável é uma caixa que guarda informações.
 
 ## Exemplo
 
