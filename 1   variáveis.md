@@ -10,7 +10,7 @@ A variável idade guarda o valor 30.
 
 ## Tipos de Variáveis
 
-### inteiro
+### Inteiro
 
 Guarda números sem vírgula.
 
