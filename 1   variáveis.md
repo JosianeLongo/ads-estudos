@@ -1,3 +1,5 @@
+> [!NOTE]
+
 # Variáveis
 
 Variável é uma caixa que guarda informações.
